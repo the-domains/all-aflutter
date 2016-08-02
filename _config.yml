@@ -1,4 +1,3 @@
-layout_spectrum: 0.8685558373108506
 typography_spectrum: 0.08827775483950973
 color:
   brandStrength: 0.7848313108552247
@@ -11,5 +10,7 @@ color:
     - '#363843'
     - '#9A9C99'
     - '#6A736E'
+layout_spectrum: 0.8685558373108506
 name: All Aflutter
 title: All Aflutter
+description: 'we are, all aflutter.'
